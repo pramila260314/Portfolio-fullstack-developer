@@ -1,0 +1,64 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto+Slab&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@500&family=Playfair+Display&family=Roboto+Condensed:wght@700&family=Roboto+Slab&display=swap');
+body
+{
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Roboto Slab', serif;;
+  
+}
+.navigation-bar
+{ 
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+}
+.myname
+{
+   font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+font-weight: bolder;
+font-size: 30px;
+color: #6feb10;
+}
+.mymenu
+{
+	text-transform: uppercase;
+	color: black;
+	font-size: 20px;
+	letter-spacing: 1.5px;
+}
+.mymenu:hover
+{
+	color:#eb9010;
+}
+#home
+{
+	margin-top: 70px;
+}
+.dv
+{
+	height: 500px;
+	width: 100%;
+
+}
+.info
+{
+	margin-top: 10%;
+	margin-left: 5%;
+}
+.hminfo
+{
+	font-size: 30px;
+	color: black;
+}
+.hmname
+{
+	font-family: 'Noto Serif', serif;
+	font-family: 'Playfair Display', serif;
+	font-weight: bolder;
+	font-size: 30px;
+	color: #6feb10;
+}
